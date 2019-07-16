@@ -1,17 +1,17 @@
 # MERCÚRIO
 
-Plataforma que proporciona um link de comunicação entre a ONS, o COS Engie e as usinas Engie, de forma a gerar dados que alimentam um BI Analytics. O Mercúrio reduz a carga cognitiva do operador, garante confiabilidade da informação transitada, viabiliza auditoria e proporciona a gerência uma visão do todo das usinas Engie.
+Platform that allows the communication between ONS (Operador Nacional do Sistema Elétrico - Electrical System National Operator), Engie Control Panel and Engie Power Plants. We propose a change in the communication protocol and also provide data so that Engie can make important decisions about its operation. Mercurio reduces the cognitive weight of the operator, assure the confiability of the information, makes the audit easier and gives the administration a complete vision of the power plants operation.
 
-MVP elaborado no 'Radix Hackathon 2019'
+MVP made at 'Radix Hackathon 2019'
 
-## Operações
+## Operations
 
-- Realização de cadastro operação pela ONS através do formulário
-- Registro de histórico das ultimas 24h de operações realizadas 
-- Registro com histórico de status das operações
-- Apresentação de gráficos para analise dados
+- Operation insert form
+- History of the last 24h operations
+- Status history of the operations
+- Dashboard with BI and a few distinct analyses
 
-## Equipe
+## Team
 
 - André Araújo - DEV 
 (https://www.linkedin.com/in/andre-araujo-2393b0141)
@@ -23,4 +23,3 @@ MVP elaborado no 'Radix Hackathon 2019'
 (https://www.linkedin.com/in/carrascofrank)
 - Giovanna Anacleto - DEV 
 (https://www.linkedin.com/in/giovanna-almeida-anacleto)
-
