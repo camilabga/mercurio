@@ -1,4 +1,4 @@
-# MERCÚRIO
+# MERCURIO
 
 Platform that allows the communication between ONS (Operador Nacional do Sistema Elétrico - Electrical System National Operator), Engie Control Panel and Engie Power Plants. We propose a change in the communication protocol and also provide data so that Engie can make important decisions about its operation. Mercurio reduces the cognitive weight of the operator, assure the confiability of the information, makes the audit easier and gives the administration a complete vision of the power plants operation.
 
