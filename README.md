@@ -4,6 +4,10 @@ Platform that allows the communication between ONS (Operador Nacional do Sistema
 
 MVP made at 'Radix Hackathon 2019'
 
+Though I didn't code in this project, I pitched the solution and acted as Business Developer in the squad. 
+
+We won the Hackathon.
+
 ## Operations
 
 - Operation insert form
